@@ -1,0 +1,14 @@
+2016-09-27 22:46:30 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(28) - "admin"
+2016-09-27 22:47:47 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(29) - "admin"
+2016-09-27 22:48:01 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(33) - 密码错误
+2016-09-27 22:49:01 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(31) - 用户名不存在
+2016-09-27 22:59:13 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(24) - admin1:[C@36d4b5c
+2016-09-27 23:01:11 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(24) - admin1:[C@36d4b5c
+2016-09-27 23:02:30 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(24) - admin1:[C@78c03f1f
+2016-09-27 23:02:30 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(31) - 用户名不存在
+2016-09-27 23:03:53 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(26) - admin1:"[C@78c03f1f"
+2016-09-27 23:03:53 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(31) - 用户名不存在
+2016-09-27 23:04:46 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(26) - admin1:[C@78c03f1f
+2016-09-27 23:04:46 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(31) - 用户名不存在
+2016-09-27 23:06:31 DEBUG [main] cn.ibluesea.shiro.shirojdbc.realm.MapRealm.getAuthenticationInfo(26) - admin1:123
+2016-09-27 23:06:31 DEBUG [main] cn.ibluesea.shiro.shirojdbc.TestShiro.test1(31) - 用户名不存在
